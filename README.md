@@ -1,4 +1,4 @@
-# BitcoinPrivScanning
+# BitcoinRandomBloom
 Generate Bitcoin Private Keys and check them rich list.
 
 You can randomly generate an infinite number of private keys with this script.
